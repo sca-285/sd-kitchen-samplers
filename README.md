@@ -1,4 +1,4 @@
-# Kitchen Samplers
+# Stable Diffusion Kitchen Samplers for Forge/reForge/Forge-Classic-Neo
 
 Extra samplers and schedule types for **Forge**, **reForge** and **Forge Classic (Neo)**. Each algorithm is offered once.
 
