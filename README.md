@@ -60,6 +60,10 @@ Neo's FlowMatchEulerDiscrete and Flux2 are not ported. Both are built from Neo's
 
 Clone this repository into `extensions/`, or use **Extensions → Install from URL**. Then restart the WebUI.
 
+```bash
+git clone https://github.com/sca-285/sd-kitchen-samplers.git
+```
+
 If [sd-forge-extra-samplers](https://github.com/MisterChief95/sd-forge-extra-samplers) is installed, disable it. The console warns if it is still enabled.
 
 ### Settings from Extra Samplers
